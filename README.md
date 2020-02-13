@@ -25,7 +25,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://guides.github.com/features/mastering-markdown/) and ![Image](https://guides.github.com/features/mastering-markdown/)
+[Link](https://guides.github.com/features/mastering-markdown/) 
+
+[Image](./jt.png)
 
 
 
