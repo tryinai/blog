@@ -26,6 +26,6 @@
 
 
 ## 其他
-There are some notes to memory my little ideas
+There are some notes to memorize my little ideas
 
 - #### [安全攻防之我见-defense and attack in Security](./Security-defense&attack.md) 
