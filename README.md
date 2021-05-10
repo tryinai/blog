@@ -10,11 +10,11 @@
 
 ## 研究
 
-**机器自主学习**
+- **机器自主学习**
 
-**隐写**
+- **隐写**
 
-**隐写分析**
+- **隐写分析**
 
 
 
@@ -28,4 +28,4 @@
 ## 其他
 There are some notes to memory my little ideas
 
-#### [安全攻防之我见-defense and attack in Security](./Security-defense&attack.md) 
+- #### [安全攻防之我见-defense and attack in Security](./Security-defense&attack.md) 
