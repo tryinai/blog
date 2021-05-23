@@ -14,6 +14,7 @@
 
 ### **隐写**
 - #### 1. [隐写简介](./Steganography.md) 
+- #### 2. [学习还是搜索-从简单任务开始](./learning or searching.md)
 
 ### **隐写分析**
 
@@ -29,4 +30,4 @@
 ## 其他
 There are some notes to memorize my little ideas
 
-- #### [安全攻防之我见-defense and attack in Security](./Security-defense&attack.md) 
+- #### [安全攻防之我见-defense and attack in Security](./Security-defense&attack.md)
