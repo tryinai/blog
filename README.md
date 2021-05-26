@@ -15,6 +15,7 @@
 ### **隐写**
 - #### 1. [隐写简介](./Steganography.md) 
 - #### 2. [学习还是搜索-从简单任务开始](./learningORsearching.md)
+- #### 3. [数据还是参数](./data-parameter-difference.md.md)
 
 ### **隐写分析**
 
