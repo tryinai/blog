@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
- 
-<head>
-    <title></title>
-</head>
- 
 <script type = "text/javascript" >
     window.onload = function() {
         setInterval(function() {
@@ -46,5 +39,3 @@
     </marquee> </div>
 <img src="https://tryinai.github.io/blog/me22.png" width="600" height="600" style="position:absolute; left:10px; top:10px;”/>
 </body>
-
-</html>
