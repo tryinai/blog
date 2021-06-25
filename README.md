@@ -34,5 +34,5 @@ There are some notes to memorize my little ideas
 - #### [安全攻防之我见-defense and attack in Security](./Security-defense&attack.md)
 - #### [选题和入门](./selectresearchproject.md)
 - #### [前世，今生和来世？](./beforeafterlife.md)
-- #### [test](./test.html)
+- #### [test](./test.md)
 - #### [444](./me22.png)
