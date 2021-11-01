@@ -19,6 +19,7 @@
 
 ### **隐写**
 - #### 1. [隐写简介](./Steganography.md) 
+- #### 2. [关于隐写研究的思考]（./natureinsteganography.md）
 
 ### **隐写分析**
 
