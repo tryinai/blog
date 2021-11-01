@@ -14,7 +14,7 @@
 
 - #### 1. [学习还是搜索-从简单任务开始](./learningORsearching.md)
 - #### 2. [数据还是参数](./data-parameter-difference.md)
-- #### 3. [图像和训练-个人看法](./image-and-training.md)
+- #### 3. [图像和训练](./image-and-training.md)
 - #### 4. [到底智能在哪里](./heuristicinML.md)
 
 ### **隐写**
