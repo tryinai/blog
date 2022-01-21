@@ -44,3 +44,5 @@ There are some notes to memorize my little ideas
 - #### [选题和入门](./selectresearchproject.md)
 - #### [前世，今生和来世？](./beforeafterlife.md)
 - #### [好的导师](./goodguider.md)
+- #### [2022展望]（./2022newyear.md）
+- 
